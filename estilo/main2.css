@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, helvetica, sans-serif;
+    background-color:#ebebeb;
+}
+.content{
+    display: flex; justify-content: center;
+}
+.cadastro{
+    width: 100%; max-width: 500px;
+}
+.form{
+    display: flex; flex-direction: column;
+}
+.botao{
+    padding: 10px;
+    margin-bottom: 15px;
+    border:1px;
+    color: gray;
+}
